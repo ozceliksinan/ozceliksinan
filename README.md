@@ -15,7 +15,7 @@ var myProfile = new
     name = "Sinan Özçelik",
     birthDate = new DateTime(1997, 4, 24),
     address = "Keçiören / Ankara",
-    mailAddress = "info@sinanozcelik.com",
+    mailAddress = "sinanozcelik@yaani.com",
     drivingLicense = "B",
     
     education = new
@@ -98,7 +98,7 @@ var myProfile = new
 
 Hello! You can reach out to me using the following contact details:
 
-[![Email](https://img.shields.io/badge/Email-info%40sinanozcelik.com-brightgreen)](mailto:info@sinanozcelik.com)
+[![Email](https://img.shields.io/badge/Email-sinanozcelik%40yaani.com-brightgreen)](mailto:sinanozcelik@yaani.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sinan--ozcelik-blue)](https://www.linkedin.com/in/sinan-ozcelik/)
 

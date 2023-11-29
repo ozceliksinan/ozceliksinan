@@ -72,8 +72,8 @@ var myProfile = new
 │   ├── <a href="https://github.com/ozceliksinan/mobile-contact-form" title="Mobile Contact Form">Mobile Contact Form</a>
 │   └── <a href="https://github.com/ozceliksinan/employee-list" title="Employee List">Employee List</a>
 └── 2019
-│   ├── <a href="https://github.com/ozceliksinan/32bit-internship-project" title="32 Bit Internship Project">32 Bit Internship Project</a>
-│   └── <a href="https://github.com/ozceliksinan/file-encryption" title="File Encryption">File Encryption</a>
+    ├── <a href="https://github.com/ozceliksinan/32bit-internship-project" title="32 Bit Internship Project">32 Bit Internship Project</a>
+    └── <a href="https://github.com/ozceliksinan/file-encryption" title="File Encryption">File Encryption</a>
 </pre>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" style="margin-bottom: -5px;"> Skills

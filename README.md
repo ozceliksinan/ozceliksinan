@@ -37,6 +37,45 @@ var myProfile = new
 };
 ```
 
+## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="25" style="margin-bottom: -5px;"> Projects
+
+<pre>
+├── 2023
+│   ├── <a href="projects/alpine-language-school/" title="Alpine Language School">Alpine Language School</a>
+│   ├── <a href="projects/american-vip-language-school/" title="American VIP Language School">American VIP Language School</a>
+│   ├── <a href="projects/amerikan-kultur/" title="Amerikan Kültür">Amerikan Kültür</a>
+│   ├── <a href="projects/dwaipe/" title="Dwaipe">Dwaipe</a>
+│   ├── <a href="projects/mono-socks/" title="Mono Socks">Mono Socks</a>
+│   ├── <a href="projects/panda-oto-ticimax/" title="Panda Oto Ticimax">Panda Oto Ticimax</a>
+│   ├── <a href="projects/pet-burger/" title="Pet Burger">Pet Burger</a>
+│   └── <a href="projects/uskudar-amerikan-kultur/" title="Üsküdar Amerikan Kültür">Üsküdar Amerikan Kültür</a>
+├── 2022
+│   ├── <a href="projects/alkatek-corap/" title="Alkatek Çorap">Alkatek Çorap</a>
+│   ├── <a href="projects/dust-auto/" title="Dust Auto">Dust Auto</a>
+│   ├── <a href="projects/hydrofox/" title="Hydrofox">Hydrofox</a>
+│   ├── <a href="projects/mefatech/" title="Mefatech">Mefatech</a>
+│   ├── <a href="projects/panda-oto-kendin-tasarla/" title="Panda Oto Kendin Tasarla">Panda Oto Kendin Tasarla</a>
+│   ├── <a href="projects/panda-oto-woocommerce/" title="Panda Oto WooCommerce">Panda Oto WooCommerce</a>
+│   ├── <a href="projects/panda-seat-cover/" title="Panda Seat Cover">Panda Seat Cover</a>
+│   ├── <a href="projects/tunsa-creative/" title="Tunsa Creative">Tunsa Creative</a>
+│   └── <a href="projects/vtruck-corp/" title="V-Truck Corp">V-Truck Corp</a>
+├── 2021
+│   ├── <a href="projects/ajans-tunsa/" title="Ajans Tunsa">Ajans Tunsa</a>
+│   ├── <a href="https://github.com/ozceliksinan/vertigo-games-hexfall" title="Vertigo Games Hexfall">Vertigo Games Hexfall</a>
+│   ├── <a href="projects/aps-aviation/" title="AP&amp;S Aviation">AP&amp;S Aviation</a>
+│   ├── <a href="projects/erco/" title="Erco">Erco</a>
+│   ├── <a href="projects/matte-auto/" title="Matte Auto">Matte Auto</a>
+│   ├── <a href="projects/promats/" title="Promats">Promats</a>
+│   └── <a href="projects/reis-royal-lezzetler/" title="Reis Royal Lezzetler">Reis Royal Lezzetler</a>
+├── 2020
+│   ├── <a href="https://github.com/ozceliksinan/web-admin-panel" title="Web Admin Panel">Web Admin Panel</a>
+│   ├── <a href="https://github.com/ozceliksinan/mobile-contact-form" title="Mobile Contact Form">Mobile Contact Form</a>
+│   └── <a href="https://github.com/ozceliksinan/employee-list" title="Employee List">Employee List</a>
+└── 2019
+│   ├── <a href="https://github.com/ozceliksinan/32bit-internship-project" title="32 Bit Internship Project">32 Bit Internship Project</a>
+│   └── <a href="https://github.com/ozceliksinan/file-encryption" title="File Encryption">File Encryption</a>
+</pre>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" style="margin-bottom: -5px;"> Skills
 
 - 📋 Programming Languages: 
@@ -94,9 +133,9 @@ var myProfile = new
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📞 Contact Information
+## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="30" style="margin-bottom: -5px;"> Contact Information
 
-Hello! You can reach out to me using the following contact details:
+You can reach out to me using the following contact details:
 
 [![Email](https://img.shields.io/badge/Email-sinanozcelik%40yaani.com-brightgreen)](mailto:sinanozcelik@yaani.com)
 

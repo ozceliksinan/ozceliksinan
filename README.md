@@ -41,6 +41,7 @@ var myProfile = new
 
 <pre>
 ├── 2023
+│   ├── <a href="https://github.com/ozceliksinan/BarcodeSalesProgram" title="Barcode Sales Program">Barcode Sales Program</a>
 │   ├── <a href="projects/alpine-language-school/" title="Alpine Language School">Alpine Language School</a>
 │   ├── <a href="projects/american-vip-language-school/" title="American VIP Language School">American VIP Language School</a>
 │   ├── <a href="projects/amerikan-kultur/" title="Amerikan Kültür">Amerikan Kültür</a>
